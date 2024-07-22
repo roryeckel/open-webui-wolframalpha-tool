@@ -2,7 +2,7 @@
 title: WolframAlpha API
 author: ex0dus
 author_url: https://github.com/roryeckel/open-webui-wolframalpha-tool
-version: 0.1.1
+version: 0.2.0
 """
 
 import os
