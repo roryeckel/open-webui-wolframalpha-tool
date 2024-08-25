@@ -5,4 +5,4 @@ First, set the environment variable of WOLFRAMALPHA_APP_ID with the app ID from 
 
 Note that the "Simple" response is refreshed whenever you visit the page again. That's why the time looks a bit off in this example :)
 
-![Example Screenshot](https://github.com/roryeckel/open-webui-wolframalpha-tool/blob/main/Example.png)
+![Example Screenshot](./Example.png)
